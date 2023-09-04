@@ -11,7 +11,7 @@ Principais problemas relatados pelo requisitante:
 <a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 
-##
+<br><br>
 
 ### Modelo e fonte de dados 
 <img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20202755.png?raw=true">
