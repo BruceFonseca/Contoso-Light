@@ -13,10 +13,19 @@ Principais problemas relatados pelo requisitante:
 
 <br><br>
 
-### Modelo e fonte de dados 
+## Modelo e fonte de dados 
 <img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20202755.png?raw=true">
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
+<br><br>
+
+## Medidas
+<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20214725.png?raw=true">
+Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.
+Principais medidas desenvolvidas;
+ - Custos, Receitas, Lucro, Entregas
+ -  Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.
+Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
 
 
 ##
