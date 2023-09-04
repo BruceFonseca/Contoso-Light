@@ -19,7 +19,7 @@ Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos
 
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
-<br><br>
+<br><br><br><br>
 
 ## Medidas
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20214725.png?raw=true">
@@ -30,7 +30,7 @@ Principais medidas desenvolvidas;
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
 
 
-##
+<br><br><br><br><br><br><br><br>
 
 Ferramentas e linguagens utilizadas:
 <div style="display: inline_block">
