@@ -1,4 +1,4 @@
-## Contoso Sales Dashboard V1
+## Contoso Sales Dashboard
 <img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
@@ -11,10 +11,15 @@ Principais problemas relatados pelo requisitante:
 <a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 
+### Modelo e fonte de dados 
+<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20202755.png?raw=true">
+Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+
 
 
 
   Ferramentas e linguagens utilizadas:
+  
 <div style="display: inline_block">
     <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
     <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
